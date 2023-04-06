@@ -23,7 +23,20 @@ git clone https://github.com/yangtangwandji/assistance_pascale.git
 
 cd your\_project
 
-pipenv install
+
+```
+installer les dependanses :
+```
+pipenv install python-dotenv
+pipenv install SpeechRecognition
+pipenv install gTTS
+pipenv install pydub
+```
+
+Active lancer l'environnement virtuel
+
+```
+pipenv shell
 ```
 
 # Configuration
@@ -59,4 +72,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un
 
 # License
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
