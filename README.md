@@ -23,7 +23,7 @@ git clone https://github.com/yangtangwandji/assistance_pascale.git
 ```
 installer les dependanses :
 ```
-pipenv install python-dotenv SpeechRecognition gTTS pydub
+pipenv install python-dotenv SpeechRecognition gTTS pydub openai PyAudio
 ```
 
 Active lancer l'environnement virtuel
