@@ -22,10 +22,7 @@ cd your\_project
 ```
 installer les dependanses :
 ```
-pipenv install python-dotenv
-pipenv install SpeechRecognition
-pipenv install gTTS
-pipenv install pydub
+pipenv install python-dotenv SpeechRecognition gTTS pydub
 ```
 
 Active lancer l'environnement virtuel
