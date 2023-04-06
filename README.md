@@ -6,16 +6,12 @@ Ce projet est un assistant de conversation simple basé sur l'API OpenAI GPT-3. 
 
 Ce projet utilise pipenv pour la gestion des dépendances et de l'environnement virtuel. Pour l'installer, exécutez la commande suivante :
 
-bash
-
 ```
 
 pip install pipenv
 ```
 
 Ensuite, clonez ce dépôt et installez les dépendances :
-
-bash
 
 ```
 
