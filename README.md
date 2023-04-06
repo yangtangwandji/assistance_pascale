@@ -3,6 +3,7 @@
 Ce projet est un assistant de conversation simple basé sur l'API OpenAI GPT-3. Il utilise la classe openai.ChatCompletion pour générer des réponses en fonction de l'historique de la conversation.
 
 # Installation
+vous devez utiliser python 3.9.13
 
 Ce projet utilise pipenv pour la gestion des dépendances et de l'environnement virtuel. Pour l'installer, exécutez la commande suivante :
 
