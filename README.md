@@ -8,21 +8,23 @@ Ce projet utilise pipenv pour la gestion des dépendances et de l'environnement 
 
 bash
 
-Copy code
+```
 
 pip install pipenv
+```
 
 Ensuite, clonez ce dépôt et installez les dépendances :
 
 bash
 
-Copy code
+```
 
 git clone https://github.com/yangtangwandji/assistance_pascale.git
 
 cd your\_project
 
 pipenv install
+```
 
 # Configuration
 
@@ -32,9 +34,10 @@ Une fois que vous avez votre clé API, vous devez la stocker dans un fichier .en
 
 text
 
-Copy code
+```
 
 CHATGPT\_API\_KEY=votre\_clé\_api
+```
 
 # Utilisation
 
