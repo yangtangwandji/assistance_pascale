@@ -7,14 +7,12 @@ Ce projet est un assistant de conversation simple basé sur l'API OpenAI GPT-3. 
 Ce projet utilise pipenv pour la gestion des dépendances et de l'environnement virtuel. Pour l'installer, exécutez la commande suivante :
 
 ```
-
 pip install pipenv
 ```
 
 Ensuite, clonez ce dépôt et installez les dépendances :
 
 ```
-
 git clone https://github.com/yangtangwandji/assistance_pascale.git
 
 cd your\_project
@@ -44,7 +42,6 @@ Une fois que vous avez votre clé API, vous devez la stocker dans un fichier .en
 text
 
 ```
-
 CHATGPT\_API\_KEY=votre\_clé\_api
 ```
 
@@ -52,12 +49,8 @@ CHATGPT\_API\_KEY=votre\_clé\_api
 
 Pour utiliser l'assistant de conversation, exécutez le script main.py :
 
-bash
-
 ```
-
 pipenv run python main.py
-
 ```
 
 L'assistant vous demandera d'entrer votre message et vous renverra une réponse en fonction de votre entrée.
