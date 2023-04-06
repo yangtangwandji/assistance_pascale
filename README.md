@@ -18,7 +18,7 @@ bash
 
 Copy code
 
-git clone https://github.com/your\_username/your\_project.git
+git clone https://github.com/yangtangwandji/assistance_pascale.git
 
 cd your\_project
 
@@ -42,9 +42,11 @@ Pour utiliser l'assistant de conversation, exécutez le script main.py :
 
 bash
 
-Copy code
+```
 
 pipenv run python main.py
+
+```
 
 L'assistant vous demandera d'entrer votre message et vous renverra une réponse en fonction de votre entrée.
 
